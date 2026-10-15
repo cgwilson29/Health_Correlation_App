@@ -1,1 +1,2 @@
 # Health_Correlation_App
+This app was developed for Module 9 of CAI5735, in-class assignment. It was deployed using Claude Opus 5.5 (medium) AI assistance, and VS Code. Additional prompt details can be found in prompts.md. The app is located in app.py and hosted on StreamLit. Claude planning contained within plan.md, alongside usual requirements.txt files. Verification.md contains a manual check against the app using a marimo notebook running python.
